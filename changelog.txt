@@ -1,3 +1,7 @@
+3.0.7
+
+Fixed seekbar visible when searching subtitles
+
 3.0.6
 
 Added 'My OSMC' widgets
