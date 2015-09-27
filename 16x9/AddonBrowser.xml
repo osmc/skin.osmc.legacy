@@ -138,6 +138,11 @@
 					<label>25000</label>
 					<visible>Control.IsEnabled(6)</visible>
 				</control>
+				<!-- Check for updates -->
+				<control type="button" id="9">
+					<include>ButtonCommonValues</include>
+					<label>24034</label>
+				</control>
 				<!-- Language -->
 				<control type="radiobutton" id="7">
 					<include>OptionButtons</include>
