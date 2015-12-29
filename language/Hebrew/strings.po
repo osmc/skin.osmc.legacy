@@ -1,0 +1,251 @@
+# XBMC Media Center language file
+# Addon Name: OSMC
+# Addon id: skin.osmc
+# Addon Provider: Hitcher
+msgid ""
+msgstr ""
+"Project-Id-Version: XBMC Main\n"
+"Report-Msgid-Bugs-To: http://trac.xbmc.org/\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2015-12-29 15:02+0200\n"
+"Language-Team: Hebrew (http://www.transifex.com/projects/p/xbmc-main/language/he/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.6\n"
+"Last-Translator: Yaron Shahrabani <sh.yaron@gmail.com>\n"
+"Language: he\n"
+
+# Misc labels
+msgctxt "#31000"
+msgid "Item"
+msgstr "פריט"
+
+msgctxt "#31001"
+msgid "Items"
+msgstr "פריטים"
+
+msgctxt "#31002"
+msgid "Tag"
+msgstr "תגית"
+
+msgctxt "#31003"
+msgid "Look"
+msgstr "מראה"
+
+msgctxt "#31004"
+msgid "Layout"
+msgstr "פריסה"
+
+msgctxt "#31005"
+msgid "Scrollbars"
+msgstr "פסי גלילה"
+
+msgctxt "#31006"
+msgid "Overlays"
+msgstr "שכבות־על"
+
+msgctxt "#31007"
+msgid "System music files"
+msgstr "קובצי מוזיקה של המערכת"
+
+msgctxt "#31008"
+msgid "Current selected"
+msgstr "הנוכחי שנבחר"
+
+msgctxt "#31009"
+msgid "Open playlist"
+msgstr "פתיחת רשימת נגינה"
+
+msgctxt "#31010"
+msgid "Save playlist"
+msgstr "שמירת רשימת נגינה"
+
+msgctxt "#31011"
+msgid "Close playlist"
+msgstr "סגירת רשימת הנגינה"
+
+msgctxt "#31012"
+msgid "Current playlist"
+msgstr "רשימת הנגינה הנוכחית"
+
+msgctxt "#31013"
+msgid "Muted"
+msgstr "מושתק"
+
+msgctxt "#31014"
+msgid "Show visualisation & Artist Slideshow"
+msgstr "הצגת אפקטים חזותיים ותמונה התואמת לאמן"
+
+msgctxt "#31015"
+msgid "Live TV"
+msgstr "שידור טלויזיה חי"
+
+msgctxt "#31016"
+msgid "Settings level"
+msgstr "רמת ההגדרות"
+
+msgctxt "#31017"
+msgid "Voted"
+msgstr "קיבל הצבעה"
+
+msgctxt "#31018"
+msgid "Increase"
+msgstr "הגברה"
+
+msgctxt "#31019"
+msgid "Decrease"
+msgstr "הנמכה"
+
+msgctxt "#31020"
+msgid "Background"
+msgstr "רקע"
+
+msgctxt "#31021"
+msgid "Home"
+msgstr "בית"
+
+msgctxt "#31027"
+msgid "Show background video"
+msgstr "הצגת וידאו ברקע"
+
+msgctxt "#31028"
+msgid "Show background visualisation"
+msgstr "הצגת אפקט חזותי ברקע"
+
+msgctxt "#31030"
+msgid "Enable curves"
+msgstr "הפעלת עקומות"
+
+msgctxt "#31031"
+msgid "Recent movies"
+msgstr "סרטים אחרונים"
+
+msgctxt "#31032"
+msgid "Recommended movies"
+msgstr "סרטים מומלצים"
+
+msgctxt "#31034"
+msgid "Enable Artist Slideshow"
+msgstr "הפעלת תמונת אמן"
+
+msgctxt "#31035"
+msgid "Recent episodes"
+msgstr "פרקים אחרונים"
+
+msgctxt "#31036"
+msgid "Recommended episodes"
+msgstr "פרקים מומלצים"
+
+msgctxt "#31038"
+msgid "Recent albums"
+msgstr "אלבומים אחרונים"
+
+msgctxt "#31039"
+msgid "Recommended albums"
+msgstr "אלבומים מומלצים"
+
+msgctxt "#31040"
+msgid ""
+msgstr ""
+
+msgctxt "#31041"
+msgid "Debug grid"
+msgstr "רשת ניפוי שגיאות"
+
+msgctxt "#31042"
+msgid "Debug labels"
+msgstr "תוויות ניפוי שגיאות"
+
+msgctxt "#31043"
+msgid "Extra art"
+msgstr "אמנות נוספת"
+
+msgctxt "#31044"
+msgid "Local subtitle found!"
+msgstr "נמצאו כתוביות מקומיות!"
+
+msgctxt "#31045"
+msgid "Supplied by"
+msgstr "סופק ע״י"
+
+msgctxt "#31046"
+msgid "Currently"
+msgstr "נוכחי"
+
+msgctxt "#31047"
+msgid "Visualisation Presets"
+msgstr "ערכות אפקטים חזותיים"
+
+msgctxt "#31048"
+msgid "Playlist Options"
+msgstr "אפשרויות רשימת נגינה"
+
+msgctxt "#31049"
+msgid "Customise Home Menu"
+msgstr "התאמת לחצן הבית"
+
+msgctxt "#31051"
+msgid "Settings can be accessed from the Shutdown menu or by rebooting XBMC!"
+msgstr "ניתן לגשת להגדרות מתפריט הכיבוי או ע״י הפעלה מחדש של XBMC‏‪!‬"
+
+msgctxt "#31052"
+msgid "Rated"
+msgstr "מדורג"
+
+msgctxt "#31053"
+msgid "Hide submenu headings"
+msgstr "הסתרת כותרות תפריט משנה"
+
+msgctxt "#31054"
+msgid "Random movies"
+msgstr "סרטים אקראיים"
+
+msgctxt "#31055"
+msgid "Random episodes"
+msgstr "פרקים אקראיים"
+
+msgctxt "#31056"
+msgid "Random albums"
+msgstr "אלבומים אקראיים"
+
+msgctxt "#31057"
+msgid "Kiosk mode"
+msgstr "מצב קיוסק"
+
+msgctxt "#31058"
+msgid "Reset all OSMC settings"
+msgstr "איפוס כל ההגדרות של OSMC"
+
+msgctxt "#31059"
+msgid "Memory Used:"
+msgstr "זיכרון בשימוש:"
+
+msgctxt "#31060"
+msgid "Enable Headings"
+msgstr "הפעלת כותרות"
+
+msgctxt "#31061"
+msgid "Enable Horizontal home layout"
+msgstr "הפעלת פריסת בית אופקית"
+
+msgctxt "#31063"
+msgid "Addons"
+msgstr "תוספים"
+
+msgctxt "#31064"
+msgid "Custom background image"
+msgstr "תמונת רקע מותאמת אישית"
+
+msgctxt "#31065"
+msgid "Hide 'Mouse' warning"
+msgstr "הסתרת אזהרת ’עכבר‘"
+
+msgctxt "#31066"
+msgid "Cinema Exp."
+msgstr "חוויית קולנוע"
+
+msgctxt "#31067"
+msgid "My OSMC"
+msgstr "ה־‏OSMC‏ שלי‏"
